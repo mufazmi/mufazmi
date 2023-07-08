@@ -1,5 +1,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=I+am+Umair+Farooqui;Full+Stack+Developer)](https://git.io/typing-svg)
+
 Hello, I'm Umair Farooqui, a highly skilled Full Stack Developer with expertise in various cutting-edge technologies such as React.js, Express.js, Flutter, Django, Python, and Java. With a passion for problem-solving and a keen eye for detail, I strive to write impeccable code that is impervious to hacking attempts.
 
 In addition to my proficiency in software development, I possess a strong background in server maintenance and administration. I have successfully managed servers, ensuring their optimal performance and security. My comprehensive knowledge of security testing enables me to identify and address potential vulnerabilities, leading to enhanced system integrity.
