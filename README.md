@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=I+am+Umair+Farooqui;Full+Stack+Developer)](https://git.io/typing-svg)
+<a href="https://mufazmi.medium.com"><img src="https://readme-typing-svg.demolab.com?font=Architects+Daughter&size=33&pause=1000&random=false&width=435&lines=I+am+Umair+Farooqui;Full+Stack+Developer+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;Security+Researcher+%F0%9F%93%96;Bug+Hunter%F0%9F%90%9E;Penetration+Tester%F0%9F%92%BB" alt="Typing SVG" /></a>
 
 Hello, I'm Umair Farooqui, a highly skilled Full Stack Developer with expertise in various cutting-edge technologies such as React.js, Express.js, Flutter, Django, Python, and Java. With a passion for problem-solving and a keen eye for detail, I strive to write impeccable code that is impervious to hacking attempts.
 
