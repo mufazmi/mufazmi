@@ -38,7 +38,9 @@ If you are seeking a highly capable Full Stack Developer who can deliver secure,
 - 📄 Know about my experiences [https://www.linkedin.com/in/mufazmi/](https://www.linkedin.com/in/ddip-kumar-paul-708/)
 
 
-# 💻Tech Stack <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"> 
+# 💻Tech Stack <img
+  src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif"
+  width="32px">
 <!--- ## My favorite tools and technologies ⚙️ -->
 
 > Tools and technologies that I have worked with and am interested in
@@ -53,6 +55,10 @@ If you are seeking a highly capable Full Stack Developer who can deliver secure,
       <br>Nodejs
     </td>
     <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="express" />
+      <br>Express
+    </td>
+    <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/react-icon.svg" width="48" height="48" alt="Reactjs" />
       <br>React.js
     </td>
@@ -65,6 +71,10 @@ If you are seeking a highly capable Full Stack Developer who can deliver secure,
       <br>MySQL
     </td>
     <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=firebase" alt="icon" width="48" height="48" />
+      <br>Firebase
+    </td>
+    <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
       <br>Typescript
     </td>
@@ -75,11 +85,11 @@ If you are seeking a highly capable Full Stack Developer who can deliver secure,
       <br>Javascript
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=dart" alt="Dart" width="65" height="65"/>
+      <img src="https://skillicons.dev/icons?i=dart" alt="Dart" width="48" height="48" />
       <br>Dart
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=flutter" alt="flutter" width="65" height="65"/>
+      <img src="https://skillicons.dev/icons?i=flutter" alt="flutter" width="48" height="48" />
       <br>Flutter
     </td>
     <td align="center" width="96">
@@ -94,8 +104,6 @@ If you are seeking a highly capable Full Stack Developer who can deliver secure,
       <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
       <br>HTML
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
       <br>CSS
@@ -104,6 +112,8 @@ If you are seeking a highly capable Full Stack Developer who can deliver secure,
       <img src="https://techstack-generator.vercel.app/github-icon.svg" width="48" height="48" alt="GitHub" />
       <br>Github
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="AWS" />
       <br>Google Cloud
