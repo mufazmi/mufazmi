@@ -1,10 +1,6 @@
 
 <a href="https://mufazmi.medium.com"><img src="https://readme-typing-svg.demolab.com?font=Architects+Daughter&size=33&pause=1000&random=false&width=435&lines=I+am+Umair+Farooqui;Full+Stack+Developer+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;Security+Researcher+%F0%9F%93%96;Bug+Hunter%F0%9F%90%9E;Penetration+Tester%F0%9F%92%BB" alt="Typing SVG" /></a>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mufazmi/mufazmi/master/banner.png" alt="Banner">
-</p>
-
 # Hi there, I'm Umair Farooqui 👋
 
 I'm a **Full Stack Developer** specializing in **React.js, Express.js, Flutter, Django, Python, and Java**. I am passionate about crafting solutions that are both efficient and secure. With a background in server maintenance, administration, and rigorous security testing, I ensure systems run optimally and securely.
@@ -67,11 +63,6 @@ I'm a **Full Stack Developer** specializing in **React.js, Express.js, Flutter, 
 - **Security Research**
 
 Let's connect and build something awesome together!
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mufazmi/mufazmi/master/footer.png" alt="Footer">
-</p>
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
