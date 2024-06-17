@@ -10,6 +10,9 @@
 I'm a **Full Stack Developer** specializing in **React.js, Express.js, Flutter, Django, Python, and Java**. I am passionate about crafting solutions that are both efficient and secure. With a background in server maintenance, administration, and rigorous security testing, I ensure systems run optimally and securely.
 
 ### Notable Recognitions 🏆
+- **Certificate of Appreciation** from **Paytm**
+  ![Certificate of Appreciation - Paytm](https://raw.githubusercontent.com/mufazmi/mufazmi/master/Certificate%20of%20Appreciation%20-%20Paytm%20-%20Umair%20Farooqui%20-%20mufazmi.jpg)
+  
 - **Letter of Appreciation** from **NASA**
   <br>
   <img src="https://raw.githubusercontent.com/mufazmi/mufazmi/master/Letter%20of%20Appreciation%20-%20National%20Aeronautics%20and%20Space%20Administration%20(NASA)%20-%20Umair%20Farooqui%20-%20mufazmi.jpg" width="400" alt="Letter of Appreciation - NASA">
@@ -19,12 +22,16 @@ I'm a **Full Stack Developer** specializing in **React.js, Express.js, Flutter, 
 - **Certificate of Appreciation** from **Radboud University**
   <br>
   <img src="https://raw.githubusercontent.com/mufazmi/mufazmi/master/Certificate%20of%20Appriciation%20-%20Radboud%20University%20-%20Umair%20Farooqui%20-%20mufazmi.jpg" width="400" alt="Certificate of Appreciation - Radboud University">
-- **Certificate of Appreciation** from **Paytm**
+<!-- - **Certificate of Appreciation** from **Paytm**
   <br>
   <img src="https://raw.githubusercontent.com/mufazmi/mufazmi/master/Certificate%20of%20Appreciation%20-%20Paytm%20-%20Umair%20Farooqui%20-%20mufazmi.jpg" width="400" alt="Certificate of Appreciation - Paytm">
+
 - **Certificate of Appreciation** from **Lenovo**
   <br>
   <img src="https://raw.githubusercontent.com/mufazmi/mufazmi/master/Certificate%20of%20Appreciation%20-%20Lenovo%20-%20Umair%20Farooqui%20-%20mufazmi.jpg" width="400" alt="Certificate of Appreciation - Lenovo">
+-->
+- **Certificate of Appreciation** from **Lenovo**
+  ![Certificate of Appreciation - Lenovo](https://raw.githubusercontent.com/mufazmi/mufazmi/master/Certificate%20of%20Appreciation%20-%20Lenovo%20-%20Umair%20Farooqui%20-%20mufazmi.jpg)
 
 ### Organizations Secured 🔒
 - **NASA**
