@@ -1,25 +1,32 @@
 
 <a href="https://mufazmi.medium.com"><img src="https://readme-typing-svg.demolab.com?font=Architects+Daughter&size=33&pause=1000&random=false&width=435&lines=I+am+Umair+Farooqui;Full+Stack+Developer+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;Security+Researcher+%F0%9F%93%96;Bug+Hunter%F0%9F%90%9E;Penetration+Tester%F0%9F%92%BB" alt="Typing SVG" /></a>
 
-# 👋 Hi, I'm Umair Farooqui
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mufazmi/mufazmi/master/banner.png" alt="Banner">
+</p>
 
-**Full Stack Developer** with expertise in **React.js, Express.js, Flutter, Django, Python, and Java**. I am passionate about solving complex problems and writing secure, efficient code. My experience spans across server maintenance, administration, and comprehensive security testing, ensuring systems run optimally and securely.
+# Hi there, I'm Umair Farooqui 👋
 
-I take pride in my ability to identify and mitigate critical vulnerabilities, which has earned me recognition from some of the world's leading organizations. Notably, I've secured systems for **NASA**, **World Health Organization (WHO)**, **Paytm**, **Dell Technologies**, **Nokia**, **Lenovo**, and **United Airlines**. These achievements have solidified my reputation as a trusted expert in the field.
+I'm a **Full Stack Developer** specializing in **React.js, Express.js, Flutter, Django, Python, and Java**. I am passionate about crafting solutions that are both efficient and secure. With a background in server maintenance, administration, and rigorous security testing, I ensure systems run optimally and securely.
 
-### Notable Recognitions:
-- **Letter of Appreciation** - NASA
-  ![Letter of Appreciation - NASA](https://raw.githubusercontent.com/mufazmi/mufazmi/master/Letter%20of%20Appreciation%20-%20National%20Aeronautics%20and%20Space%20Administration%20(NASA)%20-%20Umair%20Farooqui%20-%20mufazmi.jpg)
-- **Appreciation Letter** - Drexel University
-  ![Appreciation Letter - Drexel University](https://raw.githubusercontent.com/mufazmi/mufazmi/master/Letter%20of%20Appreciation%20-%20Drexel%20University%20-%20Umair%20Farooqui%20-%20mufazmi.jpg)
-- **Certificate of Appreciation** - Radboud University
-  ![Certificate of Appreciation - Radboud University](https://raw.githubusercontent.com/mufazmi/mufazmi/master/Certificate%20of%20Appriciation%20-%20Radboud%20University%20-%20Umair%20Farooqui%20-%20mufazmi.jpg)
-- **Certificate of Appreciation** - Paytm
-  ![Certificate of Appreciation - Paytm](https://raw.githubusercontent.com/mufazmi/mufazmi/master/Certificate%20of%20Appreciation%20-%20Paytm%20-%20Umair%20Farooqui%20-%20mufazmi.jpg)
-- **Certificate of Appreciation** - Lenovo
-  ![Certificate of Appreciation - Lenovo](https://raw.githubusercontent.com/mufazmi/mufazmi/master/Certificate%20of%20Appreciation%20-%20Lenovo%20-%20Umair%20Farooqui%20-%20mufazmi.jpg)
+### Notable Recognitions 🏆
+- **Letter of Appreciation** from **NASA**
+  <br>
+  <img src="https://raw.githubusercontent.com/mufazmi/mufazmi/master/Letter%20of%20Appreciation%20-%20National%20Aeronautics%20and%20Space%20Administration%20(NASA)%20-%20Umair%20Farooqui%20-%20mufazmi.jpg" width="400" alt="Letter of Appreciation - NASA">
+- **Appreciation Letter** from **Drexel University**
+  <br>
+  <img src="https://raw.githubusercontent.com/mufazmi/mufazmi/master/Letter%20of%20Appreciation%20-%20Drexel%20University%20-%20Umair%20Farooqui%20-%20mufazmi.jpg" width="400" alt="Appreciation Letter - Drexel University">
+- **Certificate of Appreciation** from **Radboud University**
+  <br>
+  <img src="https://raw.githubusercontent.com/mufazmi/mufazmi/master/Certificate%20of%20Appriciation%20-%20Radboud%20University%20-%20Umair%20Farooqui%20-%20mufazmi.jpg" width="400" alt="Certificate of Appreciation - Radboud University">
+- **Certificate of Appreciation** from **Paytm**
+  <br>
+  <img src="https://raw.githubusercontent.com/mufazmi/mufazmi/master/Certificate%20of%20Appreciation%20-%20Paytm%20-%20Umair%20Farooqui%20-%20mufazmi.jpg" width="400" alt="Certificate of Appreciation - Paytm">
+- **Certificate of Appreciation** from **Lenovo**
+  <br>
+  <img src="https://raw.githubusercontent.com/mufazmi/mufazmi/master/Certificate%20of%20Appreciation%20-%20Lenovo%20-%20Umair%20Farooqui%20-%20mufazmi.jpg" width="400" alt="Certificate of Appreciation - Lenovo">
 
-### Organizations Secured:
+### Organizations Secured 🔒
 - **NASA**
 - **World Health Organization (WHO)**
 - **Paytm**
@@ -44,15 +51,19 @@ I take pride in my ability to identify and mitigate critical vulnerabilities, wh
 
 ...and many more.
 
-### Skills:
-- **Full Stack Developer**
+### Skills & Expertise 💼
+- **Full Stack Development**
 - **Backend Development**
 - **Web Development**
 - **MERN Stack**
 - **Flutter**
-- **Security Researcher**
+- **Security Research**
 
-Let's connect and explore how I can contribute to your project's success!
+Let's connect and build something awesome together!
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mufazmi/mufazmi/master/footer.png" alt="Footer">
+</p>
 
 
 <h3 align="left">Connect with me:</h3>
