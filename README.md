@@ -1,15 +1,59 @@
 
 <a href="https://mufazmi.medium.com"><img src="https://readme-typing-svg.demolab.com?font=Architects+Daughter&size=33&pause=1000&random=false&width=435&lines=I+am+Umair+Farooqui;Full+Stack+Developer+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;Security+Researcher+%F0%9F%93%96;Bug+Hunter%F0%9F%90%9E;Penetration+Tester%F0%9F%92%BB" alt="Typing SVG" /></a>
 
-Hello, I'm Umair Farooqui, a highly skilled Full Stack Developer with expertise in various cutting-edge technologies such as React.js, Express.js, Flutter, Django, Python, and Java. With a passion for problem-solving and a keen eye for detail, I strive to write impeccable code that is impervious to hacking attempts.
+# 👋 Hi, I'm Umair Farooqui
 
-In addition to my proficiency in software development, I possess a strong background in server maintenance and administration. I have successfully managed servers, ensuring their optimal performance and security. My comprehensive knowledge of security testing enables me to identify and address potential vulnerabilities, leading to enhanced system integrity.
+**Full Stack Developer** with expertise in **React.js, Express.js, Flutter, Django, Python, and Java**. I am passionate about solving complex problems and writing secure, efficient code. My experience spans across server maintenance, administration, and comprehensive security testing, ensuring systems run optimally and securely.
 
-I take great pride in my accomplishments and have been recognized for my contributions by top private and public organizations. I have received multiple awards for my exceptional skills in reporting critical vulnerabilities, solidifying my reputation as a trusted expert in the field.
+I take pride in my ability to identify and mitigate critical vulnerabilities, which has earned me recognition from some of the world's leading organizations. Notably, I've secured systems for **NASA**, **World Health Organization (WHO)**, **Paytm**, **Dell Technologies**, **Nokia**, **Lenovo**, and **United Airlines**. These achievements have solidified my reputation as a trusted expert in the field.
 
-Driven by a genuine love for my craft, I am dedicated to creating robust and efficient solutions that tackle complex challenges. I continually stay abreast of the latest industry trends and strive for excellence in every project I undertake.
+### Notable Recognitions:
+- **Letter of Appreciation** - NASA
+  ![Letter of Appreciation - NASA](https://raw.githubusercontent.com/mufazmi/mufazmi/master/Letter%20of%20Appreciation%20-%20National%20Aeronautics%20and%20Space%20Administration%20(NASA)%20-%20Umair%20Farooqui%20-%20mufazmi.jpg)
+- **Appreciation Letter** - Drexel University
+  ![Appreciation Letter - Drexel University](https://raw.githubusercontent.com/mufazmi/mufazmi/master/Letter%20of%20Appreciation%20-%20Drexel%20University%20-%20Umair%20Farooqui%20-%20mufazmi.jpg)
+- **Certificate of Appreciation** - Radboud University
+  ![Certificate of Appreciation - Radboud University](https://raw.githubusercontent.com/mufazmi/mufazmi/master/Certificate%20of%20Appriciation%20-%20Radboud%20University%20-%20Umair%20Farooqui%20-%20mufazmi.jpg)
+- **Certificate of Appreciation** - Paytm
+  ![Certificate of Appreciation - Paytm](https://raw.githubusercontent.com/mufazmi/mufazmi/master/Certificate%20of%20Appreciation%20-%20Paytm%20-%20Umair%20Farooqui%20-%20mufazmi.jpg)
+- **Certificate of Appreciation** - Lenovo
+  ![Certificate of Appreciation - Lenovo](https://raw.githubusercontent.com/mufazmi/mufazmi/master/Certificate%20of%20Appreciation%20-%20Lenovo%20-%20Umair%20Farooqui%20-%20mufazmi.jpg)
 
-If you are seeking a highly capable Full Stack Developer who can deliver secure, innovative, and scalable solutions, look no further. Let's connect and explore how I can contribute to your organization's success.
+### Organizations Secured:
+- **NASA**
+- **World Health Organization (WHO)**
+- **Paytm**
+- **Dell Technologies**
+- **Nokia**
+- **Lenovo**
+- **United Airlines**
+- **ABN AMRO Bank**
+- **LG**
+- **Radboud University**
+- **WeWork India**
+- **Telstra**
+- **Envato**
+- **Exness Group**
+- **U.S. Department of Health and Human Services (HHS)**
+- **Avalara**
+- **Brightspeed**
+- **Compass**
+- **LegalZoom**
+- **Liferay**
+- **Urban Company**
+
+...and many more.
+
+### Skills:
+- **Full Stack Developer**
+- **Backend Development**
+- **Web Development**
+- **MERN Stack**
+- **Flutter**
+- **Security Researcher**
+
+Let's connect and explore how I can contribute to your project's success!
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
