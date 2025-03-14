@@ -4,9 +4,10 @@
 
 # Hi there, I'm Umair Farooqui 👋
 
-I'm a **Full Stack Developer** specializing in **React.js, Express.js, Flutter, Django, Python, and Java**. I am
-passionate about crafting solutions that are both efficient and secure. With a background in server maintenance,
-administration, and rigorous security testing, I ensure systems run optimally and securely.
+I'm a **Software Engineer** specializing in **React.js, Express.js, Flutter, Django, Python, Java, and Next.js**. I have extensive experience in full-stack development, security research, and penetration testing. As a **Certified Ethical Hacker (CEH)**, I focus on identifying and mitigating security vulnerabilities to build robust and secure applications.
+
+<h3>Certified Ethical Hacker (CEH v13)</h3>
+<img src="https://raw.githubusercontent.com/mufazmi/mufazmi/refs/heads/master/Umair%20Farooqui%20-%20Certified%20Ethical%20Hacker%20-%20CEH%20v13%20-%20mufazmi.jpg" width="1000" alt="Certified Ethical Hacker - Umair Farooqui">
 
 ### Notable Recognitions 🏆
 - **Certificate of Appreciation** from **Paytm**
@@ -63,6 +64,8 @@ administration, and rigorous security testing, I ensure systems run optimally an
 - **Dell Technologies**
 - **Nokia**
 - **Lenovo**
+- **Zoom**
+- **Accenture**
 - **United Airlines**
 - **ABN AMRO Bank**
 - **LG**
@@ -71,7 +74,7 @@ administration, and rigorous security testing, I ensure systems run optimally an
 - **Telstra**
 - **Envato**
 - **Exness Group**
-- **U.S. Department of Health and Human Services (HHS)**
+- **U.S. Department of Homeland Security (DHS)**
 - **Avalara**
 - **Brightspeed**
 - **Compass**
@@ -82,14 +85,13 @@ administration, and rigorous security testing, I ensure systems run optimally an
 ...and many more.
 
 ### Skills & Expertise 💼
-- **Full Stack Development**
-- **Backend Development**
-- **Web Development**
+- **Software Engineering**
+- **Backend & Full-Stack Development**
 - **MERN Stack**
-- **Flutter**
-- **Security Research**
+- **Flutter Development**
+- **Security Research & Penetration Testing**
 
-Let's connect and build something awesome together!
+Let's connect and build something secure and innovative together!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
