@@ -160,6 +160,10 @@ Let's connect and build something secure and innovative together!
             <br>React.js
         </td>
         <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="express" />
+            <br>Next.js
+        </td>
+        <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="mongodb" />
             <br>Mongodb
         </td>
