@@ -1,13 +1,24 @@
-<a href="https://mufazmi.medium.com"><img
-        src="https://readme-typing-svg.demolab.com?font=Architects+Daughter&size=33&pause=1000&random=false&width=435&lines=I+am+Umair+Farooqui;Full+Stack+Developer+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;Security+Researcher+%F0%9F%93%96;Bug+Hunter%F0%9F%90%9E;Penetration+Tester%F0%9F%92%BB"
-        alt="Typing SVG" /></a>
+![Profile Banner](https://readme-typing-svg.demolab.com?font=Hack&size=35&duration=4000&pause=1000&color=00FF41&center=true&width=900&lines=Securing+Digital+Frontiers+%F0%9F%9B%A1%EF%B8%8F;Full+Stack+Development+%F0%9F%92%BB;Ethical+Hacking+%F0%9F%90%9E;Innovation+through+Security+%F0%9F%94%92)
+
 
 # Hi there, I'm Umair Farooqui 👋
 
-I'm a **Software Engineer** specializing in **React.js, Express.js, Flutter, Django, Python, Java, and Next.js**. I have extensive experience in full-stack development, security research, and penetration testing. As a **Certified Ethical Hacker (CEH)**, I focus on identifying and mitigating security vulnerabilities to build robust and secure applications.
 
-<h3>Certified Ethical Hacker (CEH v13)</h3>
-<img src="https://raw.githubusercontent.com/mufazmi/mufazmi/refs/heads/master/Umair%20Farooqui%20-%20Certified%20Ethical%20Hacker%20-%20CEH%20v13%20-%20mufazmi.jpg" width="1000" alt="Certified Ethical Hacker - Umair Farooqui">
+## 🎯 Professional Profile
+
+I am a **Software Engineer** and **Certified Ethical Hacker (CEH v13)** with a laser-focused approach to building secure, robust applications. My expertise spans multiple technologies, emphasizing innovative solutions and cutting-edge security practices.
+
+### 🛡️ Core Competencies
+- **Languages**: JavaScript, TypeScript, Python, Java, Dart
+- **Frameworks**: React.js, Next.js, Express.js, Django, Flutter
+- **Security**: Penetration Testing, Vulnerability Assessment
+- **Databases**: MongoDB, MySQL, Firebase
+- **Cloud & DevOps**: AWS, Google Cloud, Docker
+
+## 🏆 Professional Certifications
+
+### Certified Ethical Hacker (CEH v13)
+![CEH Certification](https://raw.githubusercontent.com/mufazmi/mufazmi/refs/heads/master/Umair%20Farooqui%20-%20Certified%20Ethical%20Hacker%20-%20CEH%20v13%20-%20mufazmi.jpg)
 
 <table>
     <tr>
