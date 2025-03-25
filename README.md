@@ -9,6 +9,19 @@ I'm a **Software Engineer** specializing in **React.js, Express.js, Flutter, Dja
 <h3>Certified Ethical Hacker (CEH v13)</h3>
 <img src="https://raw.githubusercontent.com/mufazmi/mufazmi/refs/heads/master/Umair%20Farooqui%20-%20Certified%20Ethical%20Hacker%20-%20CEH%20v13%20-%20mufazmi.jpg" width="1000" alt="Certified Ethical Hacker - Umair Farooqui">
 
+<table>
+    <tr>
+        <td>
+            <img src="https://raw.githubusercontent.com/mufazmi/mufazmi/refs/heads/master/Certified%20Ethical%20Hacker%20-%20CEH%20-%20Practical%20-%20mufazmi%20-%20Umair%20Farooqui.jpg"
+                width="1000" alt="Certificate of Appreciation - Paytm">
+        </td>
+        <td>
+            <img src="https://raw.githubusercontent.com/mufazmi/mufazmi/refs/heads/master/Certified%20Ethical%20Hacker%20-%20CEH%20-%20Master%20-%20Umair%20Farooqui%20-%20mufazmi.jpg"
+                width="1000" alt="Certificate of Appreciation - Paytm Bronze Level">
+        </td>
+    </tr>
+</table>
+
 ### Notable Recognitions 🏆
 - **Certificate of Appreciation** from **Paytm**
 <table>
