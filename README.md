@@ -1,4 +1,4 @@
-![Profile Banner](https://readme-typing-svg.demolab.com?font=Hack&size=35&duration=4000&pause=1000&color=00FF41&center=true&width=900&lines=Securing+Digital+Frontiers+%F0%9F%9B%A1%EF%B8%8F;Full+Stack+Development+%F0%9F%92%BB;Ethical+Hacking+%F0%9F%90%9E;Innovation+through+Security+%F0%9F%94%92)
+![Profile Banner](https://readme-typing-svg.demolab.com?font=Hack&size=30&duration=2000&pause=1&color=00FF41&center=true&width=1000&lines=Software+Engineer+%F0%9F%92%BB;Certified+Ethical+Hacker+%F0%9F%94%92;Security+Researcher+%F0%9F%9A%A1;Penetration+Tester+%F0%9F%90%9E;Full+Stack+Developer+%F0%9F%8F%83;Cybersecurity+Expert+%F0%9F%94%8F;Bug+Bounty+Hunter+%F0%9F%90%9B;Open+Source+Contributor+%F0%9F%92%AA;Innovation+through+Security+%F0%9F%9A%80)
 
 
 # Hi there, I'm Umair Farooqui 👋
