@@ -3,9 +3,6 @@
 
 # Hi there, I'm Umair Farooqui 👋
 
-
-## 🎯 Professional Profile
-
 I am a **Software Engineer** and **Certified Ethical Hacker (CEH v13)** with a laser-focused approach to building secure, robust applications. My expertise spans multiple technologies, emphasizing innovative solutions and cutting-edge security practices.
 
 ### 🛡️ Core Competencies
